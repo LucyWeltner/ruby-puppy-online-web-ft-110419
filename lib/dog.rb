@@ -20,6 +20,5 @@ class Dog
     @@all << self 
   end
 end
-end
     
 # Add your code here
